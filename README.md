@@ -1,9 +1,14 @@
-# mvc-richtexteditor-rename-image
+# ASP.NET MVC RichTextEditor - Rename Image
 
-This is the project to explain how we can use controller action with Rich Text Editor (Blazor Server App) to upload the image in the required destination after rename a file name.
+This sample explains about how to use controller action with ASP.NET MVC RichTextEditor (Blazor Server App) to upload the image in the required destination after rename a file name.
 
-To run this project follow the below steps, 
+## Prerequisites
 
-1. Clone this project.
-2. Open the project in Visual Studio 2019 or later.
-3. Build and run the project.
+* Visual Studio 2022
+
+## How to run the project
+
+* Checkout this project to a location in your disk.
+* Open the solution file using the Visual Studio 2022.
+* Restore the NuGet packages by rebuilding the solution.
+* Run the project.
